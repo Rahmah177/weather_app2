@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 31.502,
+        "lat": 30.5877
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "سماء صافية",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.08,
+        "feels_like": 295.16,
+        "temp_min": 295.08,
+        "temp_max": 295.08,
+        "pressure": 1015,
+        "humidity": 70,
+        "sea_level": 1015,
+        "grnd_level": 1014
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.86,
+        "deg": 341,
+        "gust": 1.98
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1726612591,
+    "sys": {
+        "country": "EG",
+        "sunrise": 1726630810,
+        "sunset": 1726674967
+    },
+    "timezone": 10800,
+    "id": 359493,
+    "name": "الزقازيق",
+    "cod": 200
+}
